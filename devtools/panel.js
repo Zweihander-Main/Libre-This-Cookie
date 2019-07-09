@@ -21,7 +21,7 @@ jQuery(document).ready(function () {
 function start() {
     var arguments = getUrlVars();
     if (arguments.url !== undefined) {//TESTING PURPOSES
-        createList("https://google.com");
+        createList("https://localhost.com");
         return;
     }
     var tabId = chrome.devtools.inspectedWindow.tabId;
