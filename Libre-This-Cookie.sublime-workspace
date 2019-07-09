@@ -1,0 +1,1362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"twitt",
+				"twitterData"
+			],
+			[
+				"string",
+				"stringToMatch"
+			],
+			[
+				"getElemen",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"forEach",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"forEac",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"fore",
+				"forEach\t( callbackfn: Function, thisArg?: any ): Array Array"
+			],
+			[
+				"preferences",
+				"preferencesDelimiter"
+			],
+			[
+				"preference",
+				"preferencesPrefix"
+			],
+			[
+				"formatte",
+				"formattedTextEventValue"
+			],
+			[
+				"set",
+				"set_preference"
+			],
+			[
+				"preferen",
+				"preferencesDelimiter"
+			],
+			[
+				"prefere",
+				"preferencesSubDelimiter"
+			],
+			[
+				"text",
+				"textEventsArray"
+			],
+			[
+				"check",
+				"check_event_ignored_cb"
+			],
+			[
+				"Eat",
+				"EAT_ALL"
+			],
+			[
+				"current",
+				"currentIgnoredEvents"
+			],
+			[
+				"the",
+				"then"
+			],
+			[
+				"command",
+				"commandString"
+			],
+			[
+				"generate_currently",
+				"generate_currently_ignored_network_menu"
+			],
+			[
+				"generate_",
+				"generate_currently_ignored_channel_menu"
+			],
+			[
+				"plugin",
+				"pluginprefs"
+			],
+			[
+				"Co",
+				"Converts"
+			],
+			[
+				"return",
+				"returnArray"
+			],
+			[
+				"network",
+				"networkShouldBeRemoved"
+			],
+			[
+				"add",
+				"add_ignored_channel_menu"
+			],
+			[
+				"brow",
+				"browserSync"
+			],
+			[
+				"currentValu",
+				"currentValue"
+			],
+			[
+				"currentValue",
+				"currentValueArray"
+			],
+			[
+				"currentVal",
+				"currentValueArray"
+			],
+			[
+				"browser",
+				"browserifyStream"
+			],
+			[
+				"watcher",
+				"watcherObject"
+			],
+			[
+				"html",
+				"htmlSeries"
+			],
+			[
+				"tmpProce",
+				"tmpProcessingSelectorStream"
+			],
+			[
+				"mock",
+				"mockGulpDest"
+			],
+			[
+				"static",
+				"staticLayouts"
+			],
+			[
+				"sampleS",
+				"sampleScript.js"
+			],
+			[
+				"watch",
+				"watchifyStream"
+			],
+			[
+				"brows",
+				"browserify"
+			],
+			[
+				"gulpBundle",
+				"gulpBundleUseref.js"
+			],
+			[
+				"constan",
+				"constantsOpts"
+			],
+			[
+				"process",
+				"processedConfig"
+			],
+			[
+				"watchi",
+				"watchifyOpts"
+			],
+			[
+				"setTime",
+				"setTimeout\t( handler: any, timeout?: long, arguments_..: any ): long Window"
+			],
+			[
+				"let",
+				"let\tES6 Let"
+			],
+			[
+				"unc",
+				"uncssOptions"
+			],
+			[
+				"css",
+				"cssTmpCom"
+			],
+			[
+				"etc",
+				"etcTmpCopy〔variable〕"
+			],
+			[
+				"currentlySelec",
+				"currentlySelectedLocation"
+			],
+			[
+				"locations",
+				"locationsArray"
+			],
+			[
+				"lat",
+				"lat"
+			],
+			[
+				"value",
+				"valueAccessor"
+			],
+			[
+				"obser",
+				"observable"
+			],
+			[
+				"currently",
+				"currentlySelectedLocation"
+			],
+			[
+				"binding",
+				"bindingContext"
+			],
+			[
+				"container",
+				"containerSubSiblings〔variable〕"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"yelp_revie",
+				"yelp_reviewCount"
+			],
+			[
+				"valueAcc",
+				"valueAccessor〔variable〕"
+			],
+			[
+				"photo",
+				"photoObject"
+			],
+			[
+				"view",
+				"viewModel〔variable〕"
+			],
+			[
+				"yelp",
+				"yelp_rating"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"error",
+				"errorObject〔variable〕"
+			],
+			[
+				"observ",
+				"observable"
+			],
+			[
+				"API",
+				"APIType"
+			],
+			[
+				"inter",
+				"interceptFunction"
+			],
+			[
+				"worker",
+				"workerHandler"
+			],
+			[
+				"basic",
+				"basicExtraParameters"
+			],
+			[
+				"ini",
+				"initialPoint"
+			],
+			[
+				"search",
+				"searchAPIInfo"
+			],
+			[
+				"currentDetailed",
+				"currentDetailedAPIInfoBeingFetched"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"searchType",
+				"searchTypeConstructor"
+			],
+			[
+				"location",
+				"locationModelNumber"
+			],
+			[
+				"defaultLat",
+				"defaultLatLng"
+			],
+			[
+				"pass",
+				"passedGeometry〔variable〕"
+			],
+			[
+				"geometry",
+				"geometryBlueprint"
+			],
+			[
+				"favorites",
+				"favoritesArray〔variable〕"
+			],
+			[
+				"google_",
+				"google_geometry"
+			],
+			[
+				"foursq",
+				"foursquareSearchType"
+			],
+			[
+				"bind",
+				"bindingContext"
+			],
+			[
+				"backgroun",
+				"backgroundContainer〔variable〕"
+			],
+			[
+				"default",
+				"defaultMarkershape〔namespace〕"
+			],
+			[
+				"center",
+				"centerReticle"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"de",
+				"defaultZoom〔variable〕"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"fav",
+				"favArray"
+			],
+			[
+				"favori",
+				"favoriteArrayPrevLength"
+			],
+			[
+				"favorite",
+				"favoriteArray"
+			],
+			[
+				"marker",
+				"markerLimitRemoveBulkAmount"
+			],
+			[
+				"favorit",
+				"favoriteArray"
+			],
+			[
+				"favo",
+				"favoriteArray"
+			],
+			[
+				"strin",
+				"stringify"
+			],
+			[
+				"google_p",
+				"google_priceLevel"
+			],
+			[
+				"storage",
+				"storageAvailable"
+			],
+			[
+				"long",
+				"longitude"
+			],
+			[
+				"remove",
+				"removeMultipleLocations"
+			],
+			[
+				"list",
+				"listenerStorage"
+			],
+			[
+				"debounced",
+				"debouncedCallAPIs"
+			],
+			[
+				"isi",
+				"isItOpenRightNow"
+			],
+			[
+				"listable",
+				"listableEntries"
+			],
+			[
+				"sort",
+				"sortType"
+			],
+			[
+				"loca",
+				"locationModelNumber"
+			],
+			[
+				"app",
+				"appConfigObject〔variable〕"
+			],
+			[
+				"currentD",
+				"currentDetailedMenuDataBeingFetched"
+			],
+			[
+				"curren",
+				"currentlySelectedLocation"
+			],
+			[
+				"currentDeta",
+				"currentDetailedReviewDataBeingFetched"
+			],
+			[
+				"menu",
+				"menu"
+			],
+			[
+				"success",
+				"successAPIFunction"
+			],
+			[
+				"four",
+				"foursquareSearchType"
+			],
+			[
+				"radi",
+				"radiusInMeters"
+			],
+			[
+				"rad",
+				"radiusInMeters"
+			],
+			[
+				"locu",
+				"locuAccuracy"
+			],
+			[
+				"lo",
+				"long"
+			],
+			[
+				"lng",
+				"lng"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"fuzzy",
+				"fuzzySetOfResultsNames〔variable〕"
+			],
+			[
+				"cl",
+				"cl\tconsole.log"
+			],
+			[
+				"results",
+				"resultsArray"
+			],
+			[
+				"marke",
+				"markedLocations"
+			],
+			[
+				"googleOpe",
+				"googleOpeningHoursObject"
+			],
+			[
+				"open",
+				"open_now"
+			],
+			[
+				"model",
+				"modelUpdater"
+			],
+			[
+				"Api",
+				"APIMappingsForModel"
+			],
+			[
+				"result",
+				"result"
+			],
+			[
+				"review",
+				"review_count"
+			],
+			[
+				"google_U",
+				"google_UTCOffset"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 109.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"prettier",
+				"JsPrettier: Format Code"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"history",
+				"Git: Commit history"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git branch",
+				"Git: New Branch"
+			],
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git add all",
+				"Git: Add All"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add al",
+				"Git: Add All"
+			],
+			[
+				"git add a",
+				"Git: Add All"
+			],
+			[
+				"git ad all",
+				"Git: Add All"
+			],
+			[
+				"set xml",
+				"Set Syntax: XML"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"git diff",
+				"Git: Diff All Files"
+			],
+			[
+				"git current",
+				"Git: Add Current File"
+			],
+			[
+				"git add cu",
+				"Git: Add Current File"
+			],
+			[
+				"git add cur",
+				"Git: Add Current File"
+			],
+			[
+				"git diff st",
+				"Git: Diff Staged Files"
+			],
+			[
+				"git stash",
+				"Git: Stash Pop"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"set babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"hand",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"format",
+				"JsPrettier: Format Code"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"add all",
+				"Git: Add All"
+			],
+			[
+				"branch ",
+				"Git: Change Branch"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"todos",
+				"TodoReview: Project Files"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sublimecode",
+				"SublimeCodeIntel: Enable Live Autocompletion for Current Language"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"set syn markdown",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"git add add",
+				"Git: Add All"
+			],
+			[
+				"git commit ",
+				"Git: Commit"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"git bran",
+				"Git: New Branch"
+			],
+			[
+				"git ",
+				"Git: Custom Command"
+			],
+			[
+				"syntax javasc",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"syntax bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax javas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"package ",
+				"Package Control: List Packages"
+			],
+			[
+				"dec",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"docblo",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control u",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"format ",
+				"Format: Javascript"
+			],
+			[
+				"set javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"set javascrip",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 707.0
+	},
+	"console":
+	{
+		"height": 656.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/dev/src/sideprojects/extensions/Libre-This-Cookie"
+	],
+	"file_history":
+	[
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/lpDialogPageScripts.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/commonStylesheet.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/trigDialogPageScripts.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/trigDialogPage.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/pullGMailData.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/triggerManagement.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/trigDialog.js",
+		"/Z/Musix/Video Games/[1994-1995] Transport Tycoon (Deluxe)/NOTICE! Please read this",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/uiManagement.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/lpDialogPage.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/trigDialogPageStylesheet.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/lpDialog.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/commonViewFunctions.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/lpDialogPageStylesheet.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/polyfills.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/gulpfile.babel.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/Views/javascript.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/package.json",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/lpDialogPage.html",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/index.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/lpDialog.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/onOpen.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/CURRENT.md",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/build/index.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/.claspignore",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/main.js",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/build/appsscript.json",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/src/appsscript.json",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/.gitignore",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/GASLinkPuller.sublime-project",
+		"/C/dev/src/sideprojects/hexchat_scripts/ignoreTextEvents/ignoreTextEvents.lua",
+		"/C/dev/src/sideprojects/hexchat_scripts/ignoreTextEvents/README.md",
+		"/C/dev/src/sideprojects/hexchat_scripts/README.md",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/README.md",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/LICENSEmd",
+		"/C/dev/src/sideprojects/gas_scripts/GASLinkPuller/index.js",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp23833/home/rumhut/logs/tbwns.com/https/error.log.2019-07-01",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp23523/home/rumhut/logs/resources/rumhut.sa.itemized.5",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp22661/home/rumhut/logs/resources/rumhut.sa.analyzed.0",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp23172/home/rumhut/logs/resources/rumhut.sa.itemized.1",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp22870/home/rumhut/logs/resources/rumhut.sa.itemized.0",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp57338/home/rumhut/logs/tbwns.com/https/error.log",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp32960/home/rumhut/tbwns.com/wp-content/advanced-cache.php",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp18219/home/rumhut/logs/resources/rumhut.sa.analyzed.1",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp18442/home/rumhut/logs/resources/rumhut.sa.analyzed.0",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp18247/home/rumhut/logs/resources/rumhut.sa.analyzed.6",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp18346/home/rumhut/logs/resources/rumhut.sa.analyzed.5",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp19524/home/rumhut/logs/resources/rumhut.sa.analyzed.4",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp19085/home/rumhut/logs/resources/rumhut.sa.analyzed.3",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp19584/home/rumhut/logs/resources/rumhut.sa.analyzed.2",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp03928/home/rumhut/logs/resources/rumhut.sa.itemized.0",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp36878/home/rumhut/tbwns.com/wp-config.php",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp03707/home/rumhut/logs/resources/rumhut.sa.itemized.2",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp00278/home/rumhut/logs/tbwns.com/https/error.log.2019-06-26",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp00949/home/rumhut/logs/tbwns.com/https/error.log.2019-06-25",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp00194/home/rumhut/logs/tbwns.com/https/access.log",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp56370/home/rumhut/tbwns.com/.htaccess",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp37477/home/rumhut/tbwns.com/wp-content/themes/true-blue-will-never-stain-v1/functions.php",
+		"/C/Users/Zweihander/AppData/Local/Temp/scp35815/home/rumhut/tbwns.com/wp-settings.php",
+		"/C/Users/Zweihander/Downloads/seenlist-2019-05-17",
+		"/C/dev/src/sideprojects/hexchat_scripts/unhighlightChannels/README.md",
+		"/C/Users/Zweihander/AppData/Roaming/bug.n/data/_WindowState.ini",
+		"/C/dev/src/sideprojects/extensions/libretab/CURRENT.md",
+		"/C/dev/src/sideprojects/extensions/libretab/LICENSE",
+		"/C/dev/src/sideprojects/extensions/libretab/README.md",
+		"/C/Users/Zweihander/AppData/Roa",
+		"/C/dev/utils/rstray/rstray.ini",
+		"/C/dev/src/sideprojects/hexchat_scripts/unhighlightChannels/unhighlightChannels.lua",
+		"/C/Users/Zweihander/Downloads/test",
+		"/C/Users/Zweihander/Downloads/GSM",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/options.bundle.js",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/background.bundle.js",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/main.bundle.js",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/manifest.json",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/status.bundle.js",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/status.html",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/options.html",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/main.html",
+		"/C/Users/Zweihander/AppData/Local/Chromium/User Data/Default/Extensions/edacconmaakjimmfgnblocblbcdcpbko/3.6.3_0/background.html",
+		"/C/dev/src/sideprojects/hexchat_scripts/hexchat_scripts.sublime-project",
+		"/C/dev/src/sideprojects/hexchat_scripts/package.json",
+		"/C/Users/Zweihander/AppData/Roaming/HexChat/addons/unhighlightChannels.lua",
+		"/C/Users/Zweihander/AppData/Roaming/HexChat/addons/ignoreNotifications.lua",
+		"/C/dev/src/sideprojects/hexchat_scripts/unhighlightChannels/ignoreNotifications.lua",
+		"/C/Users/Zweihander/AppData/Roaming/Sublime Text 3/Packages/JsPrettier/JsPrettier.sublime-settings",
+		"/C/dev/src/sideprojects/hexchat_scripts/package-lock.json",
+		"/C/dev/src/sideprojects/hexchat_scripts/ignoreNotifications/ignoreNotifications.lua",
+		"/C/dev/src/sideprojects/hexchat_scripts/.gitignore",
+		"/C/dev/src/sideprojects/hexchat_scripts/.editorconfig",
+		"/C/dev/src/sideprojects/hexchat_scripts/ignoreNotifications/README.md",
+		"/C/Program Files/HexChat/plugins/hcnotifications-winrt.dll",
+		"/C/dev/src/sideprojects/Gulp-Guru/gulpfile.babel.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/lint/gulpLintJS.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/bundle/gulpBundleBrowserify.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/compile/gulpCompileStatic.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/index.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/lib/gulpGuruRegistry.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/static/gulpConfig.default.json",
+		"/C/dev/src/sideprojects/Gulp-Guru/CURRENT.md",
+		"/C/dev/src/sideprojects/lineage/celox/local_manifest/local_manifest.xml",
+		"/C/Users/Zweihander/AppData/Local/Temp/7zO432FC6C5/ipvanish-US-Atlanta-atl-a31.ovpn",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/meta/gulpTest.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/lib/configProcessing.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__tests__/lib/configWalkAndProcess.test.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__tests__/lib/configCheckEnvAndEnvMergeOrder.test.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/lib/walkConfigAndProcess.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__fixtures__/gulpConfig.test.json",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/lib/srcStream.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__tests__/tasks/lint/gulpLintJS.test.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__mocks__/browser-sync.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__tests__/tasks/lint/gulpLintCSS.test.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/lint/gulpLintCSS.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__tests__/tasks/transform/gulpTransformCSS.test.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/README.md",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__tests__/tasks/transform/gulpTransformHTML.test.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/transform/gulpTransformImages.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__fixtures__/app/vendor/test.html",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/transform/gulpTransformCSS.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/transform/gulpTransformHTML.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/transform/gulpTransformJS.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/post/gulpPostSitemap.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/disk/gulpCopyDev.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/__tests__/tasks/post/gulpPostSitemap.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/sequence/gulpServe.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/disk/gulpCopyBuild.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/sequence/gulpBuild.js",
+		"/C/dev/src/sideprojects/Gulp-Guru/src/tasks/post/gulpPostCachebust.js",
+		"/C/Users/Zweihander/Hydrus/client_files/f90/908c6139bb75e690a620af3b5c227de92fba9766360938b28c971fd8e23d06a8.webm"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 120.0,
+		"where_history":
+		[
+			"C:\\dev\\src\\sideprojects\\gas_scripts\\GASLinkPuller\\src",
+			"C:\\dev\\src\\sideprojects\\gas_scripts\\GASLinkPuller",
+			"<current file>",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\__tests__",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\tasks",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\__tests__",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\tasks",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\__tests__",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\tasks",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\__tests__",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src\\tasks",
+			"C:\\dev\\src\\sideprojects\\Gulp-Guru\\src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SpreadsheetApp",
+			"labelsForm",
+			"\"",
+			".find",
+			"find",
+			".radio",
+			"submit",
+			"wp-admin",
+			"100.40.194.53",
+			"53",
+			"100.40.194.53",
+			"/wp-admin",
+			"admin",
+			"worker-src",
+			"plugin",
+			"db_text_events_prefsvaluestring_to_array",
+			"views_add_ignored_channel_menu",
+			"views_add_text_events_to_channel_menu",
+			"'global'",
+			"modelte_convert_eventtype_table_to_value",
+			"print",
+			"modelte_convert_eventtype_value_to_table",
+			"table.insert",
+			"modelchannet_get_preference_events_values_array",
+			"db_text_events_prefsvaluestring_to_array",
+			"db_get_preference_valuestring",
+			"db_text_events_prefsvaluestring_to_array",
+			"modelchannet_get_preference_events_values_array",
+			"db_text_events_array_to_prefsvaluestring",
+			"startignoringevent",
+			"startignoring",
+			"models_",
+			"model_add",
+			"models_add_event",
+			"has_value(",
+			"listOfTextEvents",
+			"find(",
+			"set events to ignore in current",
+			"iterate_channet_prefs_over_lambda",
+			"is_set_to_ignore_channet",
+			"get_preference_events_values_array",
+			"convert_preference_channetkey_to_table",
+			"is_set_to_ignore_global",
+			"set_preference_events_remove_event",
+			"set_preference_events_add_event",
+			"convert_eventtype_table_to_value",
+			"convert_eventtype_value_to_table",
+			"set_preference_valuestring",
+			"get_preference_valuestring",
+			"text_events_array_to_prefsvaluestring",
+			"text_events_prefsvaluestring_to_array",
+			"compose_preferences_key(",
+			"get_preference_valuestring",
+			"text_events_prefsvaluestring_to_array",
+			"set_preference(",
+			"get_preference(",
+			"text_events_array_to_prefsvalue",
+			"text_events_prefsvalue_to_array",
+			"get_preference_events_values(",
+			"get_preference_events_values",
+			"text_events_prefsvalue_to_array",
+			";;;;;;",
+			"preferences_key",
+			"iterate_channet_prefs_over_lambda",
+			"text_events_array_to_prefsvalue",
+			"tableValue",
+			"models_remove_event",
+			"set_preference_add_event",
+			"add_text_events_to_channel_menu",
+			"add_ignored_channel_menu",
+			"add_ignored_network_menu",
+			"remove_ignored_channel_menu",
+			"remove_ignored_network_menu",
+			"generate_currently_ignored_channel_menu",
+			"generate_currently_ignored_network_menu",
+			"type",
+			"table.remove",
+			"get_preference",
+			"preferences_key",
+			"table.insert",
+			"goog",
+			"iterateover",
+			"text_events_array_to_prefsvalue",
+			"set_prefere",
+			"convert_preference_channetkey_to_table",
+			"add_ignored_network_menu",
+			"add_ignored_channel_menu",
+			"is_set_to_ignore_channet",
+			"channel, network",
+			"add_ignored_network_menu",
+			"set_",
+			"get",
+			"channet",
+			"get",
+			"get_globalall_events_values",
+			"get_preference",
+			"get_channe",
+			"ignore",
+			"get_chann",
+			"get_channe",
+			"unpack",
+			"Currently Ignore Text Events",
+			":sub",
+			"21",
+			"20",
+			"convert_preference_to_table",
+			"else if",
+			"hexchat.pluginprefs",
+			"Unhighlighted Channels/",
+			"Unhighlighted Channels",
+			"ignore",
+			"generate_",
+			"remove_",
+			"add_",
+			"Currently Ignored Channels",
+			"Ignoring Notifications",
+			"convert_preference_to_table",
+			"ignore",
+			"isignored",
+			"if not",
+			"for name, valu",
+			"ignoreNotifications_",
+			"|||",
+			"convert_preference_to_table",
+			"get_channel_preference",
+			"pluginprefs",
+			"convert_preference_to_table",
+			"add_ignored_channel_menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			".radioLabels",
+			"modelchannet_iterate_channet_prefs_over_lambda",
+			"modelchannet_is_set_to_ignore_channet",
+			"modelchannet_get_preference_events_values_array",
+			"modelchannet_convert_preference_channetkey_to_table",
+			"modelglobal_is_set_to_ignore_global",
+			"modelte_set_preference_events_remove_event",
+			"modelte_set_preference_events_add_event",
+			"modelte_convert_eventtype_table_to_value",
+			"modelte_convert_eventtype_value_to_table",
+			"db_set_preference_valuestring",
+			"db_get_preference_valuestring",
+			"db_text_events_array_to_prefsvaluestring",
+			"db_text_events_prefsvaluestring_to_array",
+			"db_compose_preferences_key(",
+			"set_preference_valuestring(",
+			"get_preference_valuestring(",
+			"text_events_array_to_prefsvaluestring",
+			"text_events_prefsvaluestring_to_array",
+			"get_preference_events_values_array(",
+			"compose_preferences_key",
+			"previousValueTable",
+			"views_add_text_events_to_channel_menu",
+			"views_add_ignored_channel_menu",
+			"views_add_ignored_network_menu",
+			"views_remove_ignored_channel_menu",
+			"views_remove_ignored_network_menu",
+			"views_generate_currently_ignored_channel_menu",
+			"views_generate_currently_ignored_network_menu",
+			"Currently Ignored Text Events",
+			"Ignore Text Events/",
+			"Currently Unhighlighted Channels",
+			"Unhighlighted Channels",
+			"bS.stream(",
+			"bS.stream()",
+			"gulp.lastRun",
+			"'../../../",
+			"'../../lib/loggingHandler'",
+			"import configProcessing from '../../lib/configProcessing';",
+			"import errorHandler from '../../lib/errorLogging';",
+			" from ",
+			"build",
+			"<ggSrc>",
+			"<ggSrcFolder>",
+			"from ",
+			"__fixtures__/",
+			"src/__fixtures/dist",
+			"src/__fixtures/.tmp",
+			"processedConfig",
+			"src/__fixtures__/app/",
+			"src/__fixtures__/app",
+			"false",
+			"true",
+			" from "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 144.0
+	},
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 150.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Libre-This-Cookie.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"app\\js\\app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1251.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\dev\\src\\sideprojects\\Gulp-Guru\\Gulp-Guru.sublime-project"
+			],
+			[
+				"repl",
+				"C:\\dev\\src\\tmp\\repl-gulp\\repl-gulp.sublime-project"
+			],
+			[
+				"zweiso",
+				"C:\\dev\\src\\zweisolutions\\zweisolutions.com\\zweisolutions.sublime-project"
+			],
+			[
+				"food",
+				"C:\\dev\\src\\sideprojects\\ZweiFood\\zweifood.sublime-project"
+			],
+			[
+				"zwei",
+				"C:\\dev\\src\\zweisolutions\\zweisolutionscom\\zweisolutions.sublime-workspace"
+			],
+			[
+				"sear",
+				"C:\\dev\\src\\sideprojects\\searchPreviewFork\\searchPreviewFork.sublime-workspace"
+			]
+		],
+		"width": 1923.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
