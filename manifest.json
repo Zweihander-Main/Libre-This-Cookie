@@ -27,8 +27,7 @@
             "/js/utils.js",
             "/js/data.js",
             "/js/background.js",
-            "/devtools/background-devtools.js",
-            "/js/ga.js"
+            "/devtools/background-devtools.js"
         ]
     },
     "options_page": "options_main_page.html",
@@ -42,7 +41,7 @@
         "storage",
         "clipboardWrite"
     ],
-    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+    "content_security_policy": "script-src 'self'; object-src 'self'",
     "minimum_chrome_version": "63",
     "manifest_version": 2,
     "update_url": ""
